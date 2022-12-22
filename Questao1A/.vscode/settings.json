@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Segunda\\OneDrive\\Ambiente de Trabalho\\CDC\\LAB. POO\\Trabalhos\\commons-net-3.9.0\\commons-net-3.9.0.jar",
+        "c:\\Users\\Segunda\\OneDrive\\Ambiente de Trabalho\\CDC\\LAB. POO\\Trabalhos\\commons-math3-3.6.1\\commons-math3-3.6.1.jar",
+        "c:\\Users\\Segunda\\OneDrive\\Ambiente de Trabalho\\CDC\\LAB. POO\\Trabalhos\\Primeiro Trabalho\\commons-math3-3.6.1\\commons-math3-3.6.1.jar"
+    ]
+}
